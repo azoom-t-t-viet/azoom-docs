@@ -46,7 +46,7 @@ $ git commit -m 'release '$(date +%F)
 $ git push origin master
 ```
 
-デプロイが終わります。　[https://rsmdc.github.io](https://rsmdc.github.io)に変更したものが確認出来ます。
+デプロイが終わります。 [https://rsmdc.github.io](https://rsmdc.github.io)に変更したものが確認出来ます。
 
 **B. 短い実行コマンド**
 
