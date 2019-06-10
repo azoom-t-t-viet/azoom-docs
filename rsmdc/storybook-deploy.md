@@ -1,4 +1,4 @@
-# RSMDCのStorybookでマニュアルのデプロイ手順
+# StorybookでRSMDCのマニュアルのデプロイ手順
 
 ## 目的
 
