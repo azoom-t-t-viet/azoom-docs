@@ -4,7 +4,7 @@
 
 Storybookで作ったRSMDCのマニュアルをデプロイするため手順です。
 
-マニュアルは[https://rsmdc.github.io](https://rsmdc.github.io)で参照出来ます。
+マニュアルは [https://rsmdc.github.io](https://rsmdc.github.io) で参照出来ます。
 
 ## 手順
 
@@ -31,14 +31,14 @@ $ yarn
 $ yarn build-storybook
 ```
 
-4. ビルドしたファイルに反映します。
+4. ビルドしたファイルに反映します
 
 ```cmd
 $ cd ..
 $ cp -r rsmdc-storybook/storybook-static/* .
 ```
 
-5. Githubに変更したものを反映します。
+5. Githubに変更したものを反映します
 
 ```cmd
 $ git add .
@@ -50,7 +50,7 @@ $ git push origin master
 
 **B. 短い実行コマンド**
 
-`A.`のコマンドをまとめて、以下のコマンドが早く実行出来ます。
+`A.`のコマンドをまとめて、以下のコマンドが早く実行出来ます
 
 ```cmd
 $ yarn build
